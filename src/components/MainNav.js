@@ -66,4 +66,4 @@ export default function SimpleBottomNavigation() {
       />
     </BottomNavigation>
   );
-}
+}  
